@@ -1,0 +1,50 @@
+.background{
+    background-color: rgb(224, 224, 224);
+}
+.heading{
+  display: flex;
+    width: 100%;
+}
+
+.button1{
+   color: black;
+   height: 40px;
+    width: 70px;
+}
+.button2{
+  color: white;
+   height: 40px;
+    width: 150px;
+    background-color: black;
+    
+}
+.container{
+  display: flex;
+}
+.header{
+  padding-left:190px ;
+  padding-right:50px ;
+  padding-bottom:150px ;
+  padding-top:150px ;
+  font-size: 20px;
+}
+.button3{
+   color: white;
+   height: 40px;
+    width: 150px;
+    background-color: black;
+}
+.button{
+  margin-left: 350px;
+}
+.searchbar{
+  text-align: center;
+  margin-left: 400px;
+  border-color: aliceblue;
+  font-size: 17px;
+}
+
+
+
+
+
